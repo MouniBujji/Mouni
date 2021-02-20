@@ -1,5 +1,5 @@
 class Hello{
-public static void main(AString[] args){
+public static void main(String[] args){
 system.out.println("GIT Repo");
 }
 }
